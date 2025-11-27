@@ -86,7 +86,7 @@ const TrackingPage = ({ order }: TrackingPageProps) => {
                   <div className="relative animate-bounce">
                     <div className="absolute inset-0 bg-secondary/30 rounded-full blur-xl w-20 h-20 -left-6 -top-6"></div>
                     <div className="relative bg-secondary text-white p-4 rounded-full shadow-2xl border-4 border-white">
-                      <Icon name="Bike" size={32} />
+                      <Icon name="Truck" size={32} />
                     </div>
                     <div className="absolute -bottom-10 left-1/2 -translate-x-1/2 whitespace-nowrap bg-card px-3 py-2 rounded-lg shadow-lg border-2 border-secondary/50">
                       <span className="font-semibold text-sm">{order.courier.name}</span>
