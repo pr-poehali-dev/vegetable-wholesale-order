@@ -15,7 +15,7 @@ const vegetables = [
     price: 120,
     unit: 'кг',
     description: 'Спелые красные томаты',
-    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/439c47a9-ce0a-4e49-8cd4-98d0bce8728c.jpg',
+    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/1b2d98a6-4c6c-473b-b574-ca3a9d1c6c98.jpg',
     inStock: true,
     badge: 'Хит продаж'
   },
@@ -25,7 +25,7 @@ const vegetables = [
     price: 90,
     unit: 'кг',
     description: 'Свежие хрустящие огурцы',
-    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/439c47a9-ce0a-4e49-8cd4-98d0bce8728c.jpg',
+    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/c44f9a7e-4418-46d7-9934-18a8e6107b3c.jpg',
     inStock: true,
     badge: 'Органика'
   },
@@ -35,7 +35,7 @@ const vegetables = [
     price: 150,
     unit: 'кг',
     description: 'Разноцветный сладкий перец',
-    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/439c47a9-ce0a-4e49-8cd4-98d0bce8728c.jpg',
+    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/1696a41c-4352-48be-b44d-880cfc63ad20.jpg',
     inStock: true
   },
   {
@@ -44,7 +44,7 @@ const vegetables = [
     price: 60,
     unit: 'кг',
     description: 'Сочная сладкая морковь',
-    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/439c47a9-ce0a-4e49-8cd4-98d0bce8728c.jpg',
+    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/6c83342a-7da1-4568-a479-501b042b6c55.jpg',
     inStock: true
   },
   {
@@ -53,7 +53,7 @@ const vegetables = [
     price: 45,
     unit: 'кг',
     description: 'Плотная свежая капуста',
-    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/7b85a6f4-ae20-4921-a583-f324239a5f9b.jpg',
+    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/e23d79a4-2f7a-4348-84c0-2e7035723a6a.jpg',
     inStock: true,
     badge: 'Новинка'
   },
@@ -63,7 +63,7 @@ const vegetables = [
     price: 35,
     unit: 'кг',
     description: 'Крупный картофель для жарки',
-    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/439c47a9-ce0a-4e49-8cd4-98d0bce8728c.jpg',
+    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/15535b25-c520-49af-9ab4-85c6b31cb2ae.jpg',
     inStock: true
   },
   {
@@ -72,7 +72,7 @@ const vegetables = [
     price: 30,
     unit: 'кг',
     description: 'Золотистый репчатый лук',
-    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/439c47a9-ce0a-4e49-8cd4-98d0bce8728c.jpg',
+    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/67242968-3dd6-483e-a16f-ec71c868bf96.jpg',
     inStock: true
   },
   {
@@ -81,7 +81,7 @@ const vegetables = [
     price: 180,
     unit: 'кг',
     description: 'Нежный зеленый салат',
-    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/7b85a6f4-ae20-4921-a583-f324239a5f9b.jpg',
+    image: 'https://cdn.poehali.dev/projects/304929e3-49b5-428a-8c0f-3d27193ad0c9/files/1cf66b5f-37fc-4691-84e6-163ff0e6bb6b.jpg',
     inStock: true,
     badge: 'Органика'
   }
